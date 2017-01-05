@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Nome" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/nomeUsuario"
+        android:enabled="false" />
+
+
+    <TextView
+        android:text="Matricula"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Matricula" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/matriculaUsuario"
+        android:enabled="false" />
+
+    <TextView
+        android:text="CPF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/CPF" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/cpfUsuario"
+        android:enabled="false" />
+
+
+    <TextView
+        android:text="RG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RG" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/rgUsuario"
+        android:enabled="false" />
+
+
+    <TextView
+        android:text="E-Mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EMail" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/emailUsuario"
+        android:enabled="false" />
+
+
+    <TextView
+        android:text="Senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Senha" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/senhaUsuario"
+        android:enabled="false" />
+
+    <Button
+        android:text="Editar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_salvaUsuario" />
+
+</LinearLayout>

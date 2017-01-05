@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/lv_codigo_municipio"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="6dp"
+        android:padding="3dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/lv_municipio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/lv_codigo_municipio"
+        android:maxLines="3"
+        android:padding="3dp"
+        android:textColor="@color/zebra_blue" />
+
+    <TextView
+        android:id="@+id/lv_trecho"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lv_municipio"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/lv_codigo_municipio"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:padding="3dp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

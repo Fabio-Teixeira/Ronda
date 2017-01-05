@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:text="codigo"
+        android:id="@+id/codigo_infracao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/obs_infracao"
+        android:textAlignment="viewStart" />
+
+    <TextView
+        android:text="TextView"
+        android:id="@+id/infrator_pontos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/codigo_infracao"
+        android:layout_alignBottom="@+id/obs_infracao"
+        android:textAlignment="viewStart"
+        android:layout_alignRight="@+id/codigo_infracao"
+        android:layout_alignEnd="@+id/codigo_infracao" />
+
+    <TextView
+        android:id="@+id/descricao_infracao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/codigo_infracao"
+        android:maxLines="3"
+        android:padding="3dp" />
+
+    <TextView
+        android:id="@+id/obs_infracao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/descricao_infracao"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:padding="3dp"
+        android:visibility="visible"
+        android:layout_alignLeft="@+id/descricao_infracao"
+        android:layout_alignStart="@+id/descricao_infracao" />
+
+    <TextView
+        android:text="TextView"
+        android:id="@+id/base_legal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/obs_infracao"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:padding="3dp"
+        android:visibility="visible"
+        android:layout_alignLeft="@+id/obs_infracao"
+        android:layout_alignStart="@+id/obs_infracao" />
+
+
+
+</RelativeLayout>

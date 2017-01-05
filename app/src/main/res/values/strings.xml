@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ronda 4Del</string>
+
+    <string name="action_settings">Add uma Imressora</string>
+
+    <string name="zebra_technologies_corp">Fabio Braga Technologies Corp.</string>
+    <string name="zebra_address_line_1"><b>PRF</b>, Linhares, ES.</string>
+    <string name="zebra_address_line_2">fabio.braga@prf.gov.br</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="print">Imprimir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galleria</string>
+
+    <string name="printer_status">Status da impressora</string>
+    <string name="rotation_prompt">Escolha uma rotação</string>
+    <string name="image_selection">Selecione uma imagem</string>
+
+    <string name="store_check">Marque para salvar a impressora</string>
+    <string name="path_hint">Caminho para salvar a impressora</string>
+    <string name="printer_selection">Selecione uma impressora</string>
+    <string name="discovered_printers">Impressoras descobertas</string>
+    <string name="searching_for_printers">Procurando por impressoras&#8230;</string>
+    <string name="connecting_to_printer">Conectando a impressora&#8230;</string>
+    <string name="printer_connected">Impressora conectada</string>
+    <string name="printer_connection_failed">Conexão com a impressora falhou</string>
+    <string name="connected_to_printer">Conectado a impressora:</string>
+    <string name="connection_error">Erro de conexão</string>
+    <string name="print_successful">Impressão com sucesso</string>
+    <string name="print_failed">Impressão falhou:</string>
+    <string name="printer_paused">Impressão pausada</string>
+    <string name="head_open">Head open</string>
+    <string name="paper_out">Paper out</string>
+    <string name="cannot_print">Impossível imprimir</string>
+    <string name="no_printers_found">Nenhuma impressora encontrada</string>
+
+
+</resources>

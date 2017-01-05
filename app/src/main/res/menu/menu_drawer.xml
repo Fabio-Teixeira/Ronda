@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tc"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="TC / Bat / E-Dat" />
+        <item
+            android:id="@+id/nav_infra"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Infrações/Observações" />
+        <item
+            android:id="@+id/nav_ronda"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Deslocamento de Ronda" />
+        <item
+            android:id="@+id/nav_km"
+            android:icon="@drawable/ic_rodovia"
+            android:title="Achar KM e Municipio" />
+
+    </group>
+
+    <item android:title="Configurações">
+        <menu>
+            <item
+                android:id="@+id/nav_imp"
+                android:icon="@drawable/ic_printer"
+                android:title="Impressoras" />
+            <item
+                android:id="@+id/nav_pessoa"
+                android:icon="@drawable/ic_person"
+                android:title="Dados Pessoais" />
+        </menu>
+    </item>
+
+</menu>

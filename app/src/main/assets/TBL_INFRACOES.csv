@@ -1,0 +1,375 @@
+52400;Disputar corrida;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;Obs Teste;173
+50291;Dirigir veículo com CNH ou PPD cassada;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;Veículo abordado e Condutor com a CNH cassada, conforme consulta ao sistema Serpro e Detran. Veículo entregue ao Sr. Fulano, CNH no x ou Veículo retido conforme e-DRV no x, face o art. 269, §1o, do CTB;162 II
+50292;Dirigir veículo com CNH ou PPD com suspensão do direito de dirigir;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;- Veículo abordado e Condutor com a CNH suspensa, conforme consulta ao sistema Serpro e Detran. CNH recolhida conforme e-DRV no x. Condutor enquadrado no art. 307 do CTB. Veículo entregue ao Sr. Fulano, CNH no x /ou/ Veículo retido conforme e-DRV no x, face o art. 269, §1o, do CTB.;162 II
+50701;Entregar veículo a pessoa com CNH ou PPD cassada;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;P;<null>;163 c/c 162 II
+50702;Entregar veículo a pessoa com CNH ou PPD com suspensão do direito de dirigir;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;P;<null>;163 c/c 162 II
+51261;Permitir posse/condução do veículo a pessoa com CNH ou PPD cassada;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;P;<null>;164 c/c 162 II
+51262;Permitir posse/condução veíc pessoa com CNH/PPD c/ suspensão direito de dirigir;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;P;<null>;164 c/c 162 II
+54525;Estacionar ao lado ou sobre canteiro central/divisores de pista de rolamento;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;181 VIII
+54526;Estacionar ao lado ou sobre marcas de canalização;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;181 VIII
+56221;Parar no passeio;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;3; ;C;Consulta ao sistema Serpro. Veículo parado sobre o passeio, causando transtorno aos pedestres. Regularizado.;182 VI
+56224;Parar nos canteiros centrais/divisores de pista de rolamento;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;3; ;C;<null>;182 VI
+56225;Parar nas marcas de canalização;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;3; ;C;<null>;182 VI
+57463;Transitar em local/horário não permitido pela regulamentação - caminhão;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4; ;C;<null>;187 I
+57702;Deixar de dar passagem a veíc socorro incêndio/salv serv urgência devid identif;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;<null>;189
+58194;Transitar com o veículo em canteiros centrais/divisores de pista de rolamento;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;Consulta ao sistema SERPRO. Veiculo com o condutor flagrado transitando sobre canteiro que divide a pista lateral com a pista central, próximo a xxxx Local: KM xx+444m;193
+58780;Ultrapassar pela direita, salvo qdo veíc da frente der sinal p/ entrar esquerda;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4; ;C;Veículo Ultrapassou outro veículo pela direita, em rodovia com pista dupla e duas faixas de rolamento em cada sentido. Sinalizações Verticais e Horizontais presentes e nítidas.;199
+58860;Ultrap pela direita veíc transp colet/escolar parado para emb/desemb passageiros;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;Motocicleta ultrapassou ônibus x , parado, pela direita. Local da ultrapassagem: km 246 + 500m. (próximo à escola x). Combinado com o AIT no x (art. 170).;200
+60411;Executar operação de conversão à direita em local proibido pela sinalização;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;207
+60412;Executar operação de conversão à esquerda em local proibido pela sinalização;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;207
+65300;Usar no veículo equip c/ som em volume/freqüência não autorizados pelo Contran;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;228
+65480;Usar no veíc alarme/aparelho produz som perturbe sossego púb desac norma Contran;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4; ;C;<null>;229
+67000;Conduzir veíc com vidro total/parcialmente coberto por película, painéis/pintura;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;P;Consulta ao sistema SERPRO. Veiculo flagrado transitando com vidros laterais dianteiros e para-brisa com película sem a devida chancela em desacordo com o artigo 7º, § 1º da resolução 254/07 do CONTRAN. Situação regularizada no local com a retirada das mesmas. CRLV retido devido a impossibilidade de regularização da irregularidade no local.;230 XVI
+68070;Transitar c/veíc derraman/lançando/arrastando objeto possa acarretar risco acidente;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;<null>;231 II c
+68311;Transitar com o veículo com excesso de peso PBT/PBTC;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4;P;E;Volvo/NL12 360, Bitren, Graneleiro, tracionando os semirreboques xxx-3333 e yyy-3344, comprimento 19,20mts. Classificação I-64, transportando 45.000 kg do produto xxxx, NF yyyyyy. Amparo: Res 210/06, 211/06, 258/07, 289/08 e 290/08 do Contran. Responsabilidade solidaria com o embarcador.;231 V
+68312;Transitar com o veículo com excesso de peso - Por Eixo;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4;P;E;<null>;231 V
+68313;Transitar com o veículo com excesso de peso - PBT/PBTC e Por Eixo;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4;P;E;<null>;231 V
+68820;Transitar com o veículo excedendo a CMT em até 600 kg;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4;P;P;Volvo/NL12 360, Bitren, Graneleiro, tracionando os semirreboques xxx-3333 e yyy-3344, comprimento 19,20mts. Classificação I-64, transportando 45.000 kg do produto xxxx, NF yyyyyy. Amparo: Res 210/06, 211/06, 258/07, 289/08 e 290/08 do Contran. Responsabilidade solidaria com o embarcador.;231 X
+68900;Transitar com o veículo excedendo a CMT entre 601 e 1.000 kg;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5;P;P;Volvo/NL12 360, Bitren, Graneleiro, tracionando os semirreboques xxx-3333 e yyy-3344, comprimento 19,20mts. Classificação I-64, transportando 45.000 kg do produto xxxx, NF yyyyyy. Amparo: Res 210/06, 211/06, 258/07, 289/08 e 290/08 do Contran. Responsabilidade solidaria com o embarcador.;231 X
+69040;Transitar com o veículo excedendo a CMT acima de 1.000 kg;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7;P;P;Volvo/NL12 360, Bitren, Graneleiro, tracionando os semirreboques xxx-3333 e yyy-3344, comprimento 19,20mts. Classificação I-64, transportando 45.000 kg do produto xxxx, NF yyyyyy. Amparo: Res 210/06, 211/06, 258/07, 289/08 e 290/08 do Contran. Responsabilidade solidaria com o embarcador.;231 X
+69630;Trans c/veíc desac c/especificação/falta de inscr/simbologia necessária identif;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;P;Veículo x, cor y, pertencente ao Ministério Público Federal, sem qualquer indicação do órgão nas portas, em desacordo com o art. 120, §1o do CTB. CRLV no x, retido conforme RRD no x.;237
+70562;Conduzir ciclo fazendo malabarismo ou equilibrando-se em uma roda;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4; ;C;<null>;244 III c/c § 1º
+70800;Conduzir motocicleta, motoneta e ciclomotor rebocando outro veículo;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;244 VI
+70991;Conduzir motocicleta/motoneta/ciclomotor sem segurar o guidom com ambas as mãos;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;Motocicleta x, cor y. Condutor segurando o guidão somente com a mão direita. Levando um pacote debaixo do braço esquerdo.;244 VII
+71021;Conduzir motocicleta, motoneta e ciclomotor transportando carga incompatível;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;Motocicleta x, cor y, Transportando fogão sobre o bagageiro. Regularizado.;244 VIII
+71023;Conduzir motoc/moton/ transportando carga em desacordo c/ § 2º do Art 139-A CTB;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;244 VIII
+71292;Conduzir ciclomotor em via de trânsito rápido;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4; ;C;<null>;244 § 2º
+71293;Conduzir ciclomotor em rodovia salvo se houver acostamento ou faixa própria;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;4; ;C;<null>;244 § 2º
+72180;Transportar em veíc destinado transp passageiros carga excedente desac art.109;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;248
+75521;Conduzir motoc/moton/ efetuando transp remun mercadoria desac c/ art 139-A CTB;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;244 IX
+75522;Conduzir motoc/moton/ efet transp remun desac normas ativid profic mototaxistas;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;C;<null>;244 IX
+58196;Transitar com o veículo em marcas de canalização;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;7; ;C;<null>;193
+67261;Conduzir o veículo em mau estado de conservação, comprometendo a segurança;Lei Nº 9.503/97;2013-01-01 00:00:00.0;;5; ;P;Consulta ao sistema SERPRO. Veiculo flagrado com pneu xxxx, lado interno/externo em mau estado de conservação (liso) em desacordo com a resolução 558/80 do CONTRAN. CRLV xxx, retido até regularização pelo condutor, face o art. 269, § 1º, do CTB.;230 XVIII
+51691;Dirigir sob a influência de álcool;Lei Nº 9.503/97;2012-12-21 00:00:00.0;;7;A;C;<null>;165
+52582;Promover na via eventos organizados sem permissão;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;J;<null>;174
+52661;Participar na via como condutor em competição esportiva, sem permissão;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;174
+52663;Participar como condutor exib/demonst perícia em manobra de veic, s/ permissão;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;174
+59080;Ultrapassar pelo acostamento;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;Consulta ao sistema Serpro. Veículo Ultrapassou outro veículo pelo acostamento.;202 I
+59161;Ultrapassar em interseções;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;202 II
+59162;Ultrapassar em passagem de nível;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;202 II
+59320;Ultrapassar pela contramão nas faixas de pedestre;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 II
+59242;Ultrapassar pela contramão nos aclives ou declives, sem visibilidade suficiente;Lei Nº 9.503/97;2014-11-11 00:00:00.0;;7; ;C;<null>;203 I
+59401;Ultrapassar pela contramão nas pontes;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 III
+59403;Ultrapassar pela contramão nos túneis;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 III
+59591;Ultrapassar pela contramão veículo parado em fila junto sinal luminoso;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 IV
+59593;Ultrapassar pela contramão veículo parado em fila junto a cruzamento;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 IV
+57970;Forçar passagem entre veícs trans sent opostos na iminência realiz ultrapassagem;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;Consulta ao sistema SERPRO. Veiculo realizando ultrapassagem em local proibido(art. 132 do CPB)/permitido(art. 34 da LCP) pela sinalização forçando os condutores em sentido contrário desviarem para o acostamento.;191
+59241;Ultrapassar pela contramão nas curvas sem visibilidade suficiente;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 I
+59402;Ultrapassar pela contramão nos viadutos;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 III
+59592;Ultrapassar pela contramão veículo parado em fila junto a cancela/porteira;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 IV
+59594;Ultrapassar pela contramão veíc parado em fila junto qq impedimento à circulação;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;<null>;203 IV
+59670;Ultrapassar pela contramão linha de divisão de fluxos opostos, contínua amarela;Lei Nº 9.503/97;2014-11-01 00:00:00.0;;7; ;C;Consulta ao sistema SERPRO. Veiculo realizou ultrapassagem em local proibido pela sinalização. Sinalização vertical e horizontal presente e conservada.;203 V
+75790;Condutor que se recusar a se submeter a qualquer dos proc prev no art. 277 do CTB.;Lei Nº 9.503/97;2014-11-04 00:00:00.0;;7; ;C;Consulta ao sistema SERPRO. Veiculo com condutor flagrado dirigindo sob suspeita de embriaguez, recusou-se a se submeter ao teste de etilômetro. Teste de recusa 04988, Etilômetro Intoximeters inc, Alco-Sensor IV, série 077068. Veiculo liberado para condutor habilitado, CNH xxx.;277 § 3º c/c/ 165
+75950;Dirigir veículo realizando cobrança de tarifa com veículo em movimento.;Lei Nº 9.503/97;2015-07-31 00:00:00.0;;4; ;C;<null>;252 VII
+75870;Transitar na faixa ou via exclusiva regulam. p/ transp. públ. coletivo passageiro;Lei Nº 9.503/97;2015-07-31 00:00:00.0;;7; ;C;<null>;184 III
+50020;Multa, por não identificação do condutor infrator, imposta à pessoa jurídica;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;0; ;P;<null>;257 § 8º
+50371;Dirigir veículo com CNH de categoria diferente da do veículo;Lei Nº 9.503/97;;;7; ;C;<null>;162 III
+50531;Dirigir veículo sem usar lentes corretoras de visão;Lei Nº 9.503/97;;;7; ;C;<null>;162 VI
+50533;Dirigir veículo sem usar aparelho auxiliar de prótese física;Lei Nº 9.503/97;;;7; ;C;<null>;162 VI
+50881;Entregar veículo a pessoa com CNH de categoria diferente da do veículo;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 III	
+51001;Entregar o veículo a pessoa sem usar lentes corretoras de visão;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 VI
+51003;Entregar o veículo a pessoa sem aparelho de prótese física;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 VI
+51341;Permitir posse/condução veíc a pessoa com CNH categoria diferente da do veículo;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 III
+51501;Permitir posse/condução do veículo a pessoa sem usar lentes corretoras de visão;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 VI
+51503;Permitir posse/condução do veículo a pessoa sem usar aparelho de prótese física;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 VI
+51852;Deixar o passageiro de usar o cinto segurança;Lei Nº 9.503/97;;;5; ;C;Consulta ao sistema SERPRO. Veiculo com passageiro do banco dianteiro e traseiro sem cinto de segurança.;167
+52070;Dirigir sem atenção ou sem os cuidados indispensáveis à segurança;Lei Nº 9.503/97;;;3; ;C;Consulta ao sistema SERPRO. Veiculo com condutor flagrado transitando com a viseira totalmente levantada e sem Óculos de proteção com película em desacordo com a resolução 453/13 do CONTRAN. Regularizado /ou/ Veículo retido face o art. 269, paragrafo 1º, do CTB. Local: KM xx+444m;169
+52151;Dirigir ameaçando os pedestres que estejam atravessando a via pública;Lei Nº 9.503/97;;;7; ;C;<null>;170
+52232;Usar veículo para arremessar sobre os veículos água ou detritos;Lei Nº 9.503/97;;;4; ;C;<null>;171
+52311;Atirar do veículo objetos ou substâncias;Lei Nº 9.503/97;;;4; ;C;<null>;172
+52900;Deixar o cond envolvido em acid, de adotar provid p/ evitar perigo p/o trânsito;Lei Nº 9.503/97;;;7; ;C;<null>;176 II
+53120;Deixar o cond envolvido em acid, de remover o veíc local qdo determ polic/agente;Lei Nº 9.503/97;;;7; ;C;<null>;176 IV
+53390;Deixar o cond de prestar socorro vítima acid de trânsito, qdo solicit p/ agente;Lei Nº 9.503/97;;;5; ;C;<null>;177
+53550;Fazer ou deixar que se faça reparo em veíc, em rodovia e via de trânsito rápido;Lei Nº 9.503/97;;;5; ;C;<null>;179 I
+53710;Ter seu veículo imobilizado na via por falta de combustível;Lei Nº 9.503/97;;;4; ;C;<null>;180
+53980;Estacionar afastado da guia da calçada (meio-fio) de 50cm a 1m;Lei Nº 9.503/97;;;3; ;C;<null>;181 II
+54100;Estacionar em desacordo com as posições estabelecidas no CTB;Lei Nº 9.503/97;;;4; ;C;<null>;181 IV
+54281;Estacionar na pista de rolamento das estradas;Lei Nº 9.503/97;;;7; ;C;<null>;181 V
+54283;Estacionar na pista de rolamento das vias de trânsito rápido;Lei Nº 9.503/97;;;7; ;C;<null>;181 V
+54360;Estacionar junto/sobre hidr de incêndio, reg de água/tampa de poço visit gal sub;Lei Nº 9.503/97;;;4; ;C;<null>;181 VI
+54522;Estacionar sobre faixa destinada a pedestre;Lei Nº 9.503/97;;;5; ;C;<null>;181 VIII
+54524;Estacionar nas ilhas ou refúgios;Lei Nº 9.503/97;;;5; ;C;<null>;181 VIII
+54790;Estacionar impedindo a movimentação de outro veículo;Lei Nº 9.503/97;;;4; ;C;<null>;181 X
+54950;Estacionar na área de cruzamento de vias;Lei Nº 9.503/97;;;5; ;C;<null>;181 XII
+55172;Estacionar nas pontes;Lei Nº 9.503/97;;;5; ;C;<null>;181 XIV
+55250;Estacionar na contramão de direção;Lei Nº 9.503/97;;;4; ;C;<null>;181 XV
+55680;Estacionar o veículo em locais e horários de estacionamento e parada proibida pela sinalização;Lei Nº 9.503/97;;;5; ;C;<null>;181 XIX
+55840;Parar afastado da guia da calçada (meio-fio) de 50cm a 1m;Lei Nº 9.503/97;;;3; ;C;<null>;182 II
+56060;Parar em desacordo com as posições estabelecidas no CTB;Lei Nº 9.503/97;;;3; ;C;<null>;182 IV
+56141;Parar na pista de rolamento das estradas;Lei Nº 9.503/97;;;5; ;C;<null>;182-V
+56143;Parar na pista de rolamento das vias de trânsito rápido;Lei Nº 9.503/97;;;5; ;C;<null>;182-V
+56222;Parar sobre faixa destinada a pedestres;Lei Nº 9.503/97;;;3; ;C;<null>;182 VI
+56300;Parar na área de cruzamento de vias;Lei Nº 9.503/97;;;4; ;C;<null>;182 VII
+56491;Parar nos viadutos;Lei Nº 9.503/97;;;4; ;C;<null>;182 VIII
+56493;Parar nos túneis;Lei Nº 9.503/97;;;4; ;C;<null>;182 VIII
+56650;Parar em local/horário proibidos especificamente pela sinalização;Lei Nº 9.503/97;;;4; ;C;<null>;182 X
+56731;Parar sobre faixa de pedestres na mudança de sinal luminoso;Lei Nº 9.503/97;;;4; ;C;<null>;183
+56810;Transitar na faixa/pista da direita regul circulação exclusiva determ veículo;Lei Nº 9.503/97;;;3; ;C;<null>;184 I
+57030;Deixar de conservar o veículo na faixa a ele destinada pela sinalização de regul;Lei Nº 9.503/97;;;4; ;C;<null>;185 I
+57200;Transitar pela contramão de direção em via com duplo sentido de circulação;Lei Nº 9.503/97;;;5; ;C;<null>;186 I
+57462;Transitar em local/horário não permitido pela regulamentação -rodízio;Lei Nº 9.503/97;;;4; ;C;<null>;187 I
+57704;Deixar de dar passagem a veíc de operação e fiscalização de trânsito devid ident;Lei Nº 9.503/97;;;7; ;C;<null>;189
+57890;Seguir veículo em serv urgência devid identific p/ alarme sonoro/ilum vermelha;Lei Nº 9.503/97;;;5; ;C;<null>;190
+58000;Deixar guardar dist segurança lat/front entre seu veíc e demais e ao bordo pista;Lei Nº 9.503/97;;;5; ;C;<null>;192
+58191;Transitar com o veículo em calçadas, passeios;Lei Nº 9.503/97;;;7; ;C;<null>;193
+58193;Transitar com o veículo em ajardinamentos, gramados, jardins públicos;Lei Nº 9.503/97;;;7; ;C;<null>;193
+58195;Transitar com o veículo em ilhas, refúgios;Lei Nº 9.503/97;;;7; ;C;<null>;193
+58197;Transitar com o veículo em acostamentos;Lei Nº 9.503/97;;;7; ;C;<null>;193
+58270;Transitar em marcha ré, salvo na distância necessária a pequenas manobras;Lei Nº 9.503/97;;;5; ;C;<null>;194
+58432;Deixar de indicar c/ antec, med gesto de braço/luz indicadora, manobra de parar;Lei Nº 9.503/97;;;5; ;C;<null>;196
+58434;Deixar de indicar c/ antec, med gesto de braço/luz indicadora, mudança de faixa;Lei Nº 9.503/97;;;5; ;C;<null>;196
+58511;Deixar de deslocar c/antecedência veíc p/ faixa mais à esquerda qdo for manobrar;Lei Nº 9.503/97;;;4; ;C;<null>;197
+58600;Deixar de dar passagem pela esquerda quando solicitado;Lei Nº 9.503/97;;;4; ;C;<null>;198
+59750;Deixar de parar no acostamento à direita, p/ cruzar pista ou entrar à esquerda;Lei Nº 9.503/97;;;5; ;C;Consulta ao sistema SERPRO. Veiculo seguia o fluxo e cruzou a pista diretamente sem parar no acostamento. Acostamento presente no local e em bom estado de conservação.;204
+59910;Executar operação de retorno em locais proibidos pela sinalização;Lei Nº 9.503/97;;;7; ;C;<null>;206 I
+60091;Executar operação de retorno nas curvas;Lei Nº 9.503/97;;;7; ;C;<null>;206 II
+60093;Executar operação de retorno nas pontes;Lei Nº 9.503/97;;;7; ;C;<null>;206 II
+60095;Executar operação de retorno nos túneis;Lei Nº 9.503/97;;;7; ;C;<null>;206 II
+60172;Executar operação de retorno passando por cima de ilha, refúgio;Lei Nº 9.503/97;;;7; ;C;<null>;206 III
+60174;Executar operação de retorno passando por cima de canteiro de divisor de pista;Lei Nº 9.503/97;2006-09-05 00:00:00.0;;7; ;C;<null>;206 III
+60176;Executar operação de retorno passando por cima de faixa de veíc não motorizados;Lei Nº 9.503/97;;;7; ;C;<null>;206 III
+60330;Executar retorno c/prejuízo da circulação/segurança ainda que em local permitido;Lei Nº 9.503/97;;;7; ;C;<null>;206 V
+60502;Avançar o sinal de parada obrigatória;Lei Nº 9.503/97;;;7; ;C;Veículo não obedeceu à sinalização de parada obrigatória (placa R-1), no Km 249 + 300m. Sinalizações verticais e horizontais presentes e nítidas.;208
+60682;Deixar de adentrar às áreas destinadas à pesagem de veículos;Lei Nº 9.503/97;;;5; ;C;Veículo deixou de efetuar a pesagem obrigatória. Condutor retornou com o veículo ao ponto de pesagem.;209
+60760;Transpor bloqueio viário policial;Lei Nº 9.503/97;;;7; ;C;Veículo abordado. O condutor, ao receber ordem de parada, acelerou e empreendeu fuga. Pista sinalizada com cones e cavaletes. Condutor enquadrado no art. 34 da LCP. Combinado com os AIT no x (art. 220*II) e no x (art. 208).;210
+60841;Ultrapassar veículos motorizados em fila, parados em razão de sinal luminoso;Lei Nº 9.503/97;;;5; ;C;<null>;211
+60843;Ultrapassar veíc motorizados em fila parados em razão de bloqueio viário parcial;Lei Nº 9.503/97;;;5; ;C;<null>;211
+60920;Deixar de parar o veículo antes de transpor linha férrea;Lei Nº 9.503/97;;;7; ;C;<null>;212
+61220;Deixar de dar preferência a pedestre/veic ñ motorizado na faixa a ele destinada;Lei Nº 9.503/97;;;7; ;C;<null>;214 I
+61490;Deixar de dar preferência a pedestre port deficiência fís/criança/idoso/gestante;Lei Nº 9.503/97;;;7; ;C;<null>;214 III
+61650;Deixar de dar preferência a pedestre/veic não mot atravessando a via transversal;Lei Nº 9.503/97;;;5; ;C;<null>;214 V
+61731;Deixar de dar preferência em interseção ñ sinaliz, a veíc circulando por rodovia;Lei Nº 9.503/97;;;5; ;C;<null>;215 I a
+61733;Deixar de dar prefer em interseção não sinalizada, a veículo que vier da direita;Lei Nº 9.503/97;;;5; ;C;<null>;215 I b
+61900;Entrar/sair área lindeira sem precaução com a segurança de pedestres e veículos;Lei Nº 9.503/97;;;4; ;C;Veículo saiu de um posto de combustível e ingressou na via sem as precauções com a segurança dos outros veículos, que foram obrigados a frear bruscamente para evitar uma colisão. Local da infração: Km 52 + 300m.;216
+62540;Transitar em velocidade inferior à metade da máxima da via, salvo faixa direita;Lei Nº 9.503/97;;;4;V;C;<null>;219
+62892;Deixar de reduzir a velocidade do veículo ao aproximar-se do acostamento;Lei Nº 9.503/97;;;5; ;C;<null>;220 III
+63000;Deixar reduzir velocidade nas vias rurais cuja faixa domínio não esteja cercada;Lei Nº 9.503/97;;;5; ;C;<null>;220 V
+63270;Deixar de reduzir veloc ao aproximar local sinaliz advert de obras/trabalhadores;Lei Nº 9.503/97;;;5; ;C;<null>;220 VII
+63430;Deixar de reduzir a velocidade quando houver má visibilidade;Lei Nº 9.503/97;;;5; ;C;<null>;220 IX
+63600;Deixar de reduzir a velocidade à aproximação de animais na pista;Lei Nº 9.503/97;;;5; ;C;<null>;220 XI
+63860;Deixar de reduzir veloc de forma compatível c/ segurança ao ultrapassar ciclista;Lei Nº 9.503/97;;;5; ;C;<null>;220 XIII
+63941;Deixar de reduzir a velocidade nas proximidades de escolas;Lei Nº 9.503/97;;;7; ;C;<null>;220 XIV
+63943;Deixar de reduzir veloc na proxim estação embarque/desembarque passageiros;Lei Nº 9.503/97;;;7; ;C;<null>;220 XIV
+64080;Portar no veículo placas de identificação em desacordo c/ especif/modelo Contran;Lei Nº 9.503/97;;;4; ;P;-Veículo com a placa traseira sem estar devidamente lacrada ao veículo, em desacordo com o art. 115 do CTB ou Placa traseira com a pintura dos caracteres desbotada. CRLV no x, retido conforme RRD no x.;221
+64240;Deixar de manter ligado em emerg sist ilum vermelha intermitente ainda q parado;Lei Nº 9.503/97;;;4; ;C;<null>;222
+64321;Transitar com farol desregulado perturbando visão outro condutor;Lei Nº 9.503/97;;;5; ;C;<null>;223
+64400;Fazer uso do facho de luz alta dos faróis em vias providas de iluminação pública;Lei Nº 9.503/97;;;3; ;C;<null>;224
+64591;Deixar de sinalizar via p/ tornar visível local qdo tiver remover veíc da pista;Lei Nº 9.503/97;;;5; ;C;<null>;225 I
+64670;Deixar de sinalizar a via p/ tornar visível o local qdo a carga for derramada;Lei Nº 9.503/97;;;5; ;C;<null>;225 II
+64830;Usar buzina que não a de toque breve como advertência a pedestre ou condutores;Lei Nº 9.503/97;;;3; ;C;<null>;227 I
+65050;Usar buzina entre as vinte e duas e as seis horas;Lei Nº 9.503/97;;;3; ;C;<null>;227 III
+65210;Usar buzina em desacordo c/ os padrões e frequências estabelecidas pelo Contran;Lei Nº 9.503/97;;;3; ;P;<null>;227 V
+65561;Conduzir o veículo com o lacre de identificação violado/falsificado;Lei Nº 9.503/97;;;7; ;P;<null>;230 I
+65563;Conduzir o veículo com o selo violado/falsificado;Lei Nº 9.503/97;;;7; ;P;<null>;230 I
+65565;Conduzir o veículo com qualquer outro elem de identificação violado/falsificado;Lei Nº 9.503/97;;;7; ;P;<null>;230 I
+65720;Conduzir o veículo com dispositivo anti-radar;Lei Nº 9.503/97;;;7; ;P;<null>;230 III
+65992;Conduzir o veículo registrado que não esteja devidamente licenciado;Lei Nº 9.503/97;2007-02-08 00:00:00.0;;7; ;P;Consulta ao sistema SERPRO e ao DETRAN em xx/xxx/xxxx. Veiculo com condutor flagrado dirigindo com licenciamento do veículo vencido. Veiculo liberado devido a ausência de pátio e guincho conveniado. CRLV 2015 xxxx retido até regularização pelo proprietário.;230 * V
+66102;Conduzir o veículo com característica alterada;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema SERPRO. Veiculo flagrado com suspensão alterada, abaixo de 120mm na parte central ate o solo, rodas originais, não consta CSV no CRLV, em desacordo com a resolução 479/14 combinada com a resolução 292/08 do CONTRAN;230 VII
+66372;Conduzir o veículo com equipamento obrigatório ineficiente ou inoperante;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema SERPRO. Veiculo com faixas reflexivas na carroceria do veiculo em mau estado de conservação (sujas/avariadas), prejudicando a eficiência em desacordo com a resolução 128/01 combinada com a resolução 132/02 e a resolução 366/10 do CONTRAN.;230 IX
+66532;Conduzir o veículo com silenciador de motor defeituoso/deficiente/inoperante;Lei Nº 9.503/97;;;5; ;P;<null>;230 XI
+66610;Conduzir o veículo com equipamento ou acessório proibido;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema SERPRO. Veiculo flagrado com engate de reboque sem plaqueta de identificação, fiação da tomada rompida e sem corrente de segurança em desacordo com a resolução 197/06 combinada com a resolução 234/07 do CONTRAN. CRLV retido para regularização pelo condutor.;230 XII
+66880;Conduzir veíc c/ registrador instan inalt de velocidade/tempo viciado/defeituoso;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema Serpto. Veículo vistoriado e a agulha da velocidade não está efetuando o registro no disco. Disco-diagrama rubricado pelo agente autuador, conforme Res. 92/99 do CONTRAN. regularizado /ou/ CRLV no x, retido conforme RRD no x.;230 XIV
+66961;Conduzir c/ inscr/adesivo/legenda/símbolo afixado pára-brisa e extensão traseira;Lei Nº 9.503/97;;;5; ;P;<null>;230 XV
+67262;Conduzir o veículo reprovado na avaliação de inspeção de segurança;Lei Nº 9.503/97;;;5; ;P;<null>;230 XVIII
+67340;Conduzir o veículo sem acionar o limpador de pára-brisa sob chuva;Lei Nº 9.503/97;;;5; ;C;<null>;230 XIX
+67500;Conduzir o veíc de carga c/ falta inscrição da tara e demais previstas no CTB;Lei Nº 9.503/97;;;4; ;P;Veículo sem a inscrição prevista no art. 117 do CTB e Res. 290/08 do CONTRAN.;230 XXI
+67852;Transitar com veículo lançando a carga que esteja transportando;Lei Nº 9.503/97;;;7; ;C;<null>;231 II a
+67930;Transitar com veíc derramando/lançando combustível/lubrif que esteja utilizando;Lei Nº 9.503/97;;;7; ;C;<null>;231 II b
+68231;Transitar c/ veíc e/ou carga c/ dimensões superiores limite legal s/ autorização;Lei Nº 9.503/97;;;5;D;P;Consulta ao sistema SERPRO. Veiculo flagrado transportando toras de eucalipto com altura 5,15mts em desacordo com a resolução 210/06 do CONTRAN. Regularizado com o transbordo do excesso. Trena homologada pelo Inmetro/PRF. Não consta AET para o veículo. ;231 IV
+68401;Transitar em desacordo c/ autorização expedida p/veículo c/ dimensões excedentes;Lei Nº 9.503/97;;;5; ;P; Veículo x, tracionando veículo y. Consta na AET, no x, que o comprimento do conjunto é de 35 metros. No entanto, após medição realizada, constatou-se que o mesmo mede 39,50 metros. Veículo escoltado até o destino devido à impossibilidade de remoção, em virtude das dimensões excedentes.;231 VI
+68580;Transitar com o veículo com lotação excedente;Lei Nº 9.503/97;;;4; ;C;GM S-10, cabine simples, bancos individuais. Lotação permitida: 02 pessoas. Lotação vericada: 04 pessoas. Regularizado /ou/ excesso transbordado para o veículo x. Todos estavam sem cinto. Combinado com o AIT no (art. 167).;231 VII
+68661;Transitar efetuando transporte remunerado de pessoas qdo ñ licenciado p/esse fim;Lei Nº 9.503/97;;;4; ;P;<null>;231 VIII
+68742;Transitar com o veículo desengrenado em declive;Lei Nº 9.503/97;;;4; ;C;<null>;231 IX
+69120;Conduzir veículo sem os documentos de porte obrigatório referidos no CTB;Lei Nº 9.503/97;;;3; ;C;Consulta ao sistema Serpro, Veículo x, cor y. Condutor não porta CNH. Veículo entregue ao Sr. Fulano, CNH no x /ou/ Regularizado /ou/ Veículo retido conforme e-DRV no x.;232
+69471;Conduzir pessoas nas partes externas do veículo;Lei Nº 9.503/97;;;5; ;C;Consulta ao sistema Serpro. Veículo x, cor y. Transportando duas crianças sentadas sobre o capô dianteiro em plena rodovia, com risco de acidente.;235
+69473;Conduzir carga nas partes externas do veículo;Lei Nº 9.503/97;;;5; ;C;<null>;235
+69710;Recusar-se a entregar CNH/CRV/CRLV/ outros documentos;Lei Nº 9.503/97;;;7; ;C;Consulta ao sistema Serpro. Veículo x, cor y. Condutor recusou-se a entregar os documentos de porte obrigatório (CNH e CRLV) para averiguação da autenticidade. Veículo removido conforme e-DRV no x.;238
+70722;Conduzir motoc/moton/ciclom transp criança s/ condição cuidar própria segurança;Lei Nº 9.503/97;2007-02-08 00:00:00.0;;7; ;C;<null>;244 * V
+70992;Conduzir ciclo sem segurar o guidom com ambas as mãos;Lei Nº 9.503/97;;;4; ;C;<null>;244 VII c/c § 1º
+71100;Conduzir ciclo transportando passageiro fora da garupa/assento a ele destinado;Lei Nº 9.503/97;;;4; ;C;<null>;244 § 1 a
+71291;Conduzir ciclo em via de trânsito rápido/rodovia sem  acostamento/faixa própria;Lei Nº 9.503/97;;;4; ;C;<null>;244 § 1 b
+71370;Conduzir ciclo transportando criança s/ condição de cuidar própria segurança;Lei Nº 9.503/97;;;4; ;C;<null>;244 § 1 c
+72001;Deixar de conduzir pelo bordo pista em fila única veíc tração/propulsão humana;Lei Nº 9.503/97;2007-02-08 00:00:00.0;;4; ;C;<null>;247
+72261;Deixar de manter acesas à noite as luzes posição qdo o veículo estiver parado;Lei Nº 9.503/97;;;4; ;C;<null>;249
+72340;Em movimento, deixar de manter acesa a luz baixa durante à noite;Lei Nº 9.503/97;;;4; ;C;<null>;250 I a
+72500;Em mov, deixar de manter acesa luz baixa veíc transp coletivo faixa/pista excl;Lei Nº 9.503/97;;;4; ;C;<null>;250 I c
+72770;Em mov deixar de manter acesas luzes de posição sob chuva forte/neblina/cerração;Lei Nº 9.503/97;;;4; ;C;Consulta ao sistema Serpro. Veículo x, cor y. Chovendo forte ou neblina intensa. Visibilidade comprometida. Sistema de sinalização desligado.;250 II
+72850;Em movimento, deixar de manter a placa traseira iluminada à noite;Lei Nº 9.503/97;;;4; ;C;<null>;250 III
+73070;Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB;Lei Nº 9.503/97;;;4; ;C;<null>;251 II
+73232;Dirigir o veículo transport animais à sua esquerda ou entre os braços e pernas;Lei Nº 9.503/97;;;4; ;C;<null>;252 II
+73310;Dirigir o veículo com incapacidade física ou mental temporária;Lei Nº 9.503/97;;;4; ;C;<null>;252 III
+73580;Dirigir o veículo com apenas uma das mãos, exceto quando permitido pelo CTB;Lei Nº 9.503/97;;;4; ;C;Consulta ao sistema SERPRO. Veiculo com condutor segurando uma cuia de chimarrão com a mão direita e apenas com a mão esquerda no volante.;252 V
+73661;Dirigir o veículo utilizando-se de fones nos ouvidos conec a aparelhagem sonora;Lei Nº 9.503/97;;;4; ;C;<null>;252 VI
+74472;Conduzir bicicleta de forma agressiva;Lei Nº 9.503/97;;;4; ;C;<null>;255
+74630;Transitar em velocidade superior à máxima permitida em mais de 20% até 50%;Lei Nº 9.503/97;2006-07-26 00:00:00.0;;5;V;C;<null>;218 II
+50100;Dirigir veículo sem possuir CNH ou Permissão para Dirigir;Lei Nº 9.503/97;;;7; ;C;Consulta ao sistema SERPRO. Veiculo com condutor dirigindo sem possuir habilitação conforme consulta ao sistema SERPRO. Veiculo liberado ao sr yyy habilitado de CNH xxx.;162 I
+50372;Dirigir veículo com PPD de categoria diferente da do veículo;Lei Nº 9.503/97;;;7; ;C;<null>;162 III
+50532;Dirigir veículo sem usar aparelho auxiliar de audição;Lei Nº 9.503/97;;;7; ;C;<null>;162 VI
+50534;Dirigir veículo s/ adaptações impostas na concessão/renovação licença conduzir;Lei Nº 9.503/97;;;7; ;C;<null>;162 VI
+50610;Entregar veículo a pessoa sem CNH ou Permissão para Dirigir;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 I
+50882;Entregar veículo a pessoa com PPD de categoria diferente da do veículo;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 III
+51002;Entregar o veículo a pessoa sem usar aparelho auxiliar de audição;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 VI
+51004;Entregar veíc pessoa s/ adaptações impostas concessão/renovação licença conduzir;Lei Nº 9.503/97;;;7; ;P;<null>;163 c/c 162 VI
+51180;Permitir posse/condução do veículo a pessoa sem CNH ou PPD;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 I
+51342;Permitir posse/condução veíc a pessoa com PPD categoria diferente da do veículo;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 III
+51502;Permitir posse/condução do veículo a pessoa s/ usar aparelho auxiliar de audição;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 VI
+51504;Permitir posse/cond veíc s/ adaptações impostas concessão/renovação licença cond;Lei Nº 9.503/97;;;7; ;P;<null>;164 c/c 162 VI
+51770;Confiar/entregar veíc pess c/ estado físico/psíquico s/ condições dirigir segur;Lei Nº 9.503/97;;;7; ;P;<null>;166
+51851;Deixar o condutor de usar o cinto segurança;Lei Nº 9.503/97;;;5; ;C;Consulta ao sistema SERPRO. Veiculo com condutor dirigindo sem uso do cinto de segurança.;167
+51930;Transportar criança sem observância das normas de segurança estabelecidas p/ CTB;Lei Nº 9.503/97;;;7; ;C;<null>;168
+52152;Dirigir ameaçando os demais veículos;Lei Nº 9.503/97;;;7; ;C;<null>;170
+52231;Usar veículo para arremessar sobre os pedestres água ou detritos;Lei Nº 9.503/97;;;4; ;C;<null>;171
+52312;Abandonar na via objetos ou substâncias;Lei Nº 9.503/97;;;4; ;C;<null>;172
+52820;Deixar o cond envolvido em acidente, de prestar ou providenciar socorro a vítima;Lei Nº 9.503/97;;;7; ;C;<null>;176 I
+53040;Deixar o cond envolvido em acidente, de preservar local p/ trab policia/pericia;Lei Nº 9.503/97;;;7; ;C;<null>;176 III
+53200;Deixar o cond envolvido em acid, de identificar-se policial e prestar inf p/o BO;Lei Nº 9.503/97;;;7; ;C;<null>;176 V
+53470;Deixar o condutor envolvido em acidente s/ vítima, de remover o veículo do local;Lei Nº 9.503/97;;;4; ;C;<null>;178
+53630;Fazer/deixar que se faça reparo em veíc nas vias (q não rodovia/transito rapido);Lei Nº 9.503/97;;;3; ;C;<null>;179 II
+53800;Estacionar nas esquinas e a menos de 5m do alinhamento da via transversal;Lei Nº 9.503/97;;;4; ;C;<null>;181 I
+54010;Estacionar afastado da guia da calçada (meio-fio) a mais de 1m;Lei Nº 9.503/97;;;5; ;C;<null>;181 III
+54282;Estacionar na pista de rolamento das rodovias;Lei Nº 9.503/97;;;7; ;C;<null>;181 V
+54284;Estacionar na pista de rolamento das vias dotadas de acostamento;Lei Nº 9.503/97;;;7; ;C;<null>;181 V
+54440;Estacionar nos acostamentos;Lei Nº 9.503/97;;;3; ;C;<null>;181 VII
+54521;Estacionar no passeio;Lei Nº 9.503/97;;;5; ;C;<null>;181 VIII
+54523;Estacionar sobre ciclovia ou ciclofaixa;Lei Nº 9.503/97;;;5; ;C;<null>;181 VIII
+54527;Estacionar ao lado ou sobre gramado ou jardim público;Lei Nº 9.503/97;;;5; ;C;<null>;181 VIII
+54600;Estacionar em guia de calçada rebaixada destinada à entrada/saída de veículos;Lei Nº 9.503/97;;;4; ;C;<null>;181 IX
+54870;Estacionar ao lado de outro veículo em fila dupla;Lei Nº 9.503/97;;;5; ;C;<null>;181 XI
+55090;Estacionar no ponto de embarque/desembarque de passageiros transporte coletivo;Lei Nº 9.503/97;;;4; ;C;<null>;181 XIII
+55171;Estacionar nos viadutos;Lei Nº 9.503/97;;;5; ;C;<null>;181 XIV
+55173;Estacionar nos túneis;Lei Nº 9.503/97;;;5; ;C;<null>;181 XIV
+55330;Estacionar aclive/declive ñ freado e sem calço segurança, PBT superior a 3500kg;Lei Nº 9.503/97;;;5; ;C;<null>;181 XVI
+55500;Estacionar em local/horário proibido especificamente pela sinalização;Lei Nº 9.503/97;;;4; ;C;<null>;181 XVIII
+55760;Parar nas esquinas e a menos 5m do bordo do alinhamento da via transversal;Lei Nº 9.503/97;;;4; ;C;<null>;182 I
+56492;Parar nas pontes;Lei Nº 9.503/97;;;4; ;C;<null>;182 VIII
+56570;Parar na contramão de direção;Lei Nº 9.503/97;;;4; ;C;<null>;182 IX
+56732;Parar sobre faixa de pedestres na mudança de sinal luminoso (fisc eletrônica);Lei Nº 9.503/97;;;4; ;C;<null>;183
+55920;Parar afastado da guia da calçada (meio-fio) a mais de 1m;Lei Nº 9.503/97;;;4; ;C;<null>;182 III
+56900;Transitar na faixa/pista da esquerda regul circulação exclusiva determ veículo;Lei Nº 9.503/97;;;5; ;C;<null>;184 II
+57110;Deixar de conservar nas faixas da direita o veículo lento e de maior porte;Lei Nº 9.503/97;;;4; ;C;<null>;185 II
+57380;Transitar pela contramão de direção em via c/ sinalização de regul sentido único;Lei Nº 9.503/97;;;7; ;C;<null>;186 II
+57461;Transitar em local/horário não permitido pela regul estabelecida pela autoridade;Lei Nº 9.503/97;;;4; ;C;<null>;187 I
+57620;Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito;Lei Nº 9.503/97;;;4; ;C;<null>;188
+57701;Deixar de dar passagem a veíc precedido de batedores devidamente identificados;Lei Nº 9.503/97;;;7; ;C;<null>;189
+57703;Deixar de dar passagem a veíc de polícia em serviço de urgência devid identif;Lei Nº 9.503/97;;;7; ;C;<null>;189
+57705;Deixar de dar passagem a ambulância em serviço de urgência devid identificada;Lei Nº 9.503/97;;;7; ;C;<null>;189
+56142;Parar na pista de rolamento das rodovias;Lei Nº 9.503/97;;;5; ;C;<null>;182-V
+56144;Parar na pista de rolamento das demais vias dotadas acostamento;Lei Nº 9.503/97;;;5; ;C;<null>;182-V
+56223;Parar nas ilhas ou refúgios;Lei Nº 9.503/97;;;3; ;C;<null>;182 VI
+58192;Transitar com o veículo em ciclovias, ciclofaixas;Lei Nº 9.503/97;;;7; ;C;<null>;193
+58198;Transitar com o veículo em passarelas;Lei Nº 9.503/97;;;7; ;C;<null>;193
+58350;Desobedecer às ordens emanadas da autorid compet de trânsito ou de seus agentes;Lei Nº 9.503/97;;;5; ;C;Consulta ao sistema SERPRO. Veiculo ao receber ordem de parada, o condutor acelerou/retornou e empreendeu fuga. Condutor enquadrado no artigo 34 da LCP.;195
+58431;Deixar de indicar c/ antec, med gesto de braço/luz indicadora, início da marcha;Lei Nº 9.503/97;;;5; ;C;<null>;196
+58433;Deixar de indicar c/ antec, med gesto de braço/luz indicadora, mudança direção;Lei Nº 9.503/97;;;5; ;C;<null>;196
+58512;Deixar de deslocar c/antecedência veíc p/ faixa mais à direita qdo for manobrar;Lei Nº 9.503/97;;;4; ;C;<null>;197
+58940;Deixar de guardar a distância lateral de 1,50m ao passar/ultrapassar bicicleta;Lei Nº 9.503/97;;;4; ;C;<null>;201
+59830;Ultrapassar veículo em movimento que integre cortejo/desfile/formação militar;Lei Nº 9.503/97;;;3; ;C;<null>;205
+60092;Executar operação de retorno nos aclives ou declives;Lei Nº 9.503/97;;;7; ;C;<null>;206 II
+60094;Executar operação de retorno nos viadutos;Lei Nº 9.503/97;;;7; ;C;<null>;206 II
+60171;Executar operação de retorno passando por cima de calçada, passeio;Lei Nº 9.503/97;;;7; ;C;<null>;206 III
+60173;Executar operação de retorno passando por cima de ajardinamento;Lei Nº 9.503/97;;;7; ;C;<null>;206 III
+60175;Executar operação de retorno passando por cima de faixa de pedestres;Lei Nº 9.503/97;2006-09-05 00:00:00.0;;7; ;C;<null>;206 III
+60250;Executar retorno nas interseções, entrando na contramão da via transversal;Lei Nº 9.503/97;;;7; ;C;<null>;206 IV
+60501;Avançar o sinal vermelho do semáforo;Lei Nº 9.503/97;;;7; ;C;Consulta ao sistema SERPRO. Veiculo avançou sinal semafórico na cor vermelha, em frente próximo pista central pista lateral cruzando a pista Local: KM xx+444m;208
+60503;Avançar o sinal vermelho do semáforo -fiscalização eletrônica;Lei Nº 9.503/97;;;7; ;C;<null>;208
+60681;Transpor bloqueio viário com ou sem sinalização ou dispositivos auxiliares;Lei Nº 9.503/97;;;5; ;C;<null>;209
+60683;Evadir-se para não efetuar o pagamento do pedágio;Lei Nº 9.503/97;;;5; ;C;<null>;209
+60842;Ultrapassar veículos motorizados em fila, parados em razão de cancela;Lei Nº 9.503/97;;;5; ;C;<null>;211
+60844;Ultrapassar veículos motorizados em fila, parados em razão de qualquer obstáculo;Lei Nº 9.503/97;;;5; ;C;<null>;211
+61060;Deixar de parar sempre que a marcha for interceptada por agrupamento de pessoas;Lei Nº 9.503/97;;;7; ;C;<null>;213 I
+61140;Deixar de parar sempre que a marcha for interceptada por agrupamento de veículos;Lei Nº 9.503/97;;;5; ;C;<null>;213 II
+61300;Deixar de dar preferência a pedestre/veic ñ mot que ñ haja concluído a travessia;Lei Nº 9.503/97;;;7; ;C;<null>;214 II
+61570;Deixar de dar preferência a pedestre/veic ñ mot qdo iniciada travessia s/sinaliz;Lei Nº 9.503/97;;;5; ;C;<null>;214 IV
+61732;Deixar de dar preferência em interseção ñ sinaliz, veíc circulando por rotatória;Lei Nº 9.503/97;;;5; ;C;<null>;215 I a
+61810;Deixar de dar preferência nas interseções com sinalização de Dê a Preferência;Lei Nº 9.503/97;;;5; ;C;<null>;215 II
+62030;Entrar/sair de fila de veículos estacionados sem dar pref a pedestres/veículos;Lei Nº 9.503/97;;;4; ;C;<null>;217
+62620;Deixar de reduzir a veloc qdo se aproximar de passeata/aglomeração/desfile/etc;Lei Nº 9.503/97;;;7; ;C;<null>;220 I
+62700;Deixar de reduzir a veloc onde o trânsito esteja sendo controlado pelo agente;Lei Nº 9.503/97;;;5; ;C;<null>;220 II
+62891;Deixar de reduzir a velocidade do veículo ao aproximar-se da guia da calçada;Lei Nº 9.503/97;;;5; ;C;<null>;220 III
+62970;Deixar de reduzir velocidade do veículo ao aproximar-se interseção ñ sinalizada;Lei Nº 9.503/97;;;5; ;C;<null>;220 IV
+63190;Deixar de reduzir a velocidade nos trechos em curva de pequeno raio;Lei Nº 9.503/97;;;5; ;C;<null>;220 VI
+63350;Deixar de reduzir a velocidade sob chuva/neblina/cerração/ventos fortes;Lei Nº 9.503/97;;;5; ;C;<null>;220 VIII
+63510;Deixar de reduzir veloc qdo pavimento se apresentar escorreg/defeituoso/avariado;Lei Nº 9.503/97;;;5; ;C;<null>;220 X
+63780;Deixar de reduzir a velocidade de forma compatível com a segurança, em declive;Lei Nº 9.503/97;;;5; ;C;<null>;220 XII
+63942;Deixar de reduzir a velocidade nas proximidades de hospitais;Lei Nº 9.503/97;;;7; ;C;<null>;220 XIV
+63944;Deixar de reduzir veloc onde haja intensa movimentação de pedestres;Lei Nº 9.503/97;;;7; ;C;<null>;220 XIV
+64322;Transitar com o facho de luz alta perturbando visão outro condutor;Lei Nº 9.503/97;;;5; ;C;<null>;223
+64592;Deixar de sinalizar a via p/ tornar visível o local qdo permanecer acostamento;Lei Nº 9.503/97;;;5; ;C;<null>;225 I
+64750;Deixar de retirar qualquer objeto utilizado para sinalização temporária da via;Lei Nº 9.503/97;;;4; ;C;<null>;226
+64910;Usar buzina prolongada e sucessivamente a qualquer pretexto;Lei Nº 9.503/97;;;3; ;C;<null>;227 II
+65130;Usar buzina em locais e horários proibidos pela sinalização;Lei Nº 9.503/97;;;3; ;C;<null>;227 IV
+65562;Conduzir o veículo com a inscrição do chassi violada/falsificada;Lei Nº 9.503/97;;;7; ;P;<null>;230 I
+65564;Conduzir o veículo com a placa violada/falsificada;Lei Nº 9.503/97;;;7; ;P;<null>;230 I
+65640;Conduzir o veículo transportando passageiros em compartimento de carga;Lei Nº 9.503/97;;;7; ;C;Consulta ao sistema Serpro. Veículo transportando 3 passageiros no compartimento de carga. Situação regularizado.;230 II
+65800;Conduzir o veículo sem qualquer uma das placas de identificação;Lei Nº 9.503/97;;;7; ;P;Consulta ao sistema SERPRO. Veiculo flagrado sem a placa dianteira;230 IV
+65991;Conduzir o veículo que não esteja registrado;Lei Nº 9.503/97;2007-02-08 00:00:00.0;;7; ;P;<null>;230 * V
+66020;Conduzir o veículo com qualquer uma das placas sem legibilidade e visibilidade;Lei Nº 9.503/97;;;7; ;P;Consulta ao sistema SERPRO. Veiculo transportando bicicletas em suporte instalado na parte traseira encobrindo a placa e sem utilizar a segunda placa em desacordo com a resolução 349/10 do CONTRAN;230 VI
+66101;Conduzir o veículo com a cor alterada;Lei Nº 9.503/97;;;5; ;P;<null>;230 VII
+66290;Conduzir veículo s/ ter sido submetido à inspeção seg veicular, qdo obrigatória;Lei Nº 9.503/97;;;5; ;P;<null>;230 VIII
+66371;Conduzir o veículo sem equipamento obrigatório;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema SERPRO. Veiculo flagrado sem roda sobressalente(estepe) em desacordo com a resolução 14/98 do CONTRAN. CRLV retido até regularização pelo condutor.;230 IX
+66450;Conduzir o veículo com equip obrigatório em desacordo com o estab pelo Contran;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema SERPRO e ao site do INMETRO. Veiculo flagrado com cronotacógrafo com aferição/certificação em desacordo com a resolução 92/99 combinada com a resolução 406/12 e com a resolução 14/98 do CONTRAN. CRLV xxxxxx recolhido para regularização pelo condutor. Certificado vencido em xxxxxxxx;230 X
+66531;Conduzir o veículo com descarga livre;Lei Nº 9.503/97;;;5; ;P;Veículo sem dispositivo destinado ao controle de emissão de gases poluentes e de ruído, em desacordo com o art. 105*V do CTB e Res. 14/98 do CONTRAN. CRLV no x, retido conforme RRD no x.;230 XI
+66700;Conduzir o veículo c/ equip do sistema de iluminação e de sinalização alterados;Lei Nº 9.503/97;;;5; ;P;Consulta ao sistema SERPRO. Veiculo flagrado com lâmpadas do farol principal/neblina com descarga de gás xenônio em desacordo com a resolução 292/08 combinada com a resolução 294/08 e combinada com a resolução 384/11 do CONTRAN. Situação regularizada no local com a substituição das mesmas. Não consta numero do CSV no CRLV. CRLV retido devido a impossibilidade de regularização dos faróis no local. Local: KM xx+444m;230 XIII
+66962;Conduzir c/ inscr/adesivo/legenda/símbolo pintado pára-brisa e extensão traseira;Lei Nº 9.503/97;;;5; ;P;<null>;230 XV
+67180;Conduzir o veículo com cortinas ou persianas fechadas;Lei Nº 9.503/97;;;5; ;P;<null>;230 XVII
+67263;Conduzir o veículo reprovado na avaliação de emissão de poluentes e ruído;Lei Nº 9.503/97;;;5; ;P;<null>;230 XVIII
+67420;Conduzir o veículo sem portar a autorização para condução de escolares;Lei Nº 9.503/97;;;5; ;P;Veículo sem autorização para condução de escolares, em desacordo com o art. 136 do CTB. Veículo liberado após transbordo dos passageiros para o veículo x.;230 XX
+67770;Transitar com o veículo danificando a via, suas instalações e equipamentos;Lei Nº 9.503/97;;;7; ;C;<null>;231 I
+67851;Transitar com veículo derramando a carga que esteja transportando;Lei Nº 9.503/97;;;7; ;C;Veículo carregado com areia. Porém, não havia proteção sobre a carga, que estava caindo sobre os veículos que seguiam logo atrás, em desacordo com a Res. 441/13. Regularizado /ou/ Veículo retido conforme e-DRV no x, face o art. 269, §1o, do CTB.;231 II a
+67853;Transitar com veículo arrastando a carga que esteja transportando;Lei Nº 9.503/97;;;7; ;C;<null>;231 II a
+68150;Transitar com veículo produzindo fumaça, gases ou partículas em desac c/ Contran;Lei Nº 9.503/97;;;5; ;P;<null>;231 III
+68232;Transitar c/ veíc e/ou carga c/ dimensões superiores est p/sinalização s/autoriz;Lei Nº 9.503/97;;;5;D;C;Ônibus escolar, com 12 metros de comprimento. Local sinalizado com placas R-18 permitindo tráfego de veículos com no máximo 10 metros. Regularizado.;231 IV
+68402;Transitar com autorização vencida, expedida p/ veículo c/ dimensões excedentes;Lei Nº 9.503/97;;;5; ;P;AET no x vencida em dd/mm/aaaa. Regularizado /ou/ Veículo removido conforme e-DRV no x.;231 VI
+68662;Transitar efetuando transporte remunerado de bens qdo não licenciado p/ esse fim;Lei Nº 9.503/97;;;4; ;P;<null>;231 VIII
+68741;Transitar com o veículo desligado em declive;Lei Nº 9.503/97;;;4; ;C;<null>;231 IX
+69472;Conduzir animais nas partes externas do veículo;Lei Nº 9.503/97;;;5; ;C;<null>;235
+69550;Rebocar outro veículo com cabo flexível ou corda;Lei Nº 9.503/97;;;4; ;C;<null>;236
+69800;Retirar do local veículo legalmente retido para regularização, sem permissão;Lei Nº 9.503/97;;;7; ;C;<null>;239
+70303;Conduzir motocicleta, motoneta e ciclomotor sem vestuário aprovado pelo Contran;Lei Nº 9.503/97;;;7; ;C;<null>;244 I
+70481;Conduzir motocicleta, motoneta e ciclomotor transportando passageiro s/ capacete;Lei Nº 9.503/97;;;7; ;C;Motocicleta x, cor y. Passageiro não usava capacete, em desacordo com a Resolução 453/13 do CONTRAN. Regularizado /ou/ Veículo retido conforme e-DRV no x, face o art. 269, §1o, do CTB.;244 II
+70483;Conduzir motocicleta/motoneta/ciclomotor transportando pas. fora do assento;Lei Nº 9.503/97;;;7; ;C;<null>;244 II
+70561;Conduzir motoc/moton/ciclomotor fazendo malabarismo/equilibrando-se em uma roda;Lei Nº 9.503/97;;;7; ;C;<null>;244 III
+70640;Conduzir motocicleta, motoneta e ciclomotor com os faróis apagados;Lei Nº 9.503/97;;;7; ;C;Consulta ao sistema SERPRO. Veiculo x, cor y flagrado transitando com farol apagado/desligado em desacordo com o art. 40 do CTB. Regularizado /ou/ Veículo retido face o art. 269, § 1º, do CTB.;244 IV
+70721;Conduzir motocicleta/motoneta/ciclomotor transportando criança menor de 7 anos;Lei Nº 9.503/97;2007-02-08 00:00:00.0;;7; ;C;<null>;244 * V
+71022;Conduzir ciclo transportando carga incompatível;Lei Nº 9.503/97;;;4; ;C;<null>;244 VIII c/c § 1º
+72002;Deixar de conduzir pelo bordo da pista em fila única veículo de tração animal;Lei Nº 9.503/97;2007-02-08 00:00:00.0;;4; ;C;<null>;247
+72262;Deixar de manter acesas à noite as luzes de posição veic fazendo carga/descarga;Lei Nº 9.503/97;;;4; ;C;<null>;249
+72690;Em movimento, deixar de manter acesa luz baixa do ciclomotor;Lei Nº 9.503/97;;;4; ;C;<null>;250 I d
+72930;Utilizar o pisca-alerta, exceto em imobilizações ou situações de emergência;Lei Nº 9.503/97;;;4; ;C;<null>;251 I
+73150;Dirigir o veículo com o braço do lado de fora;Lei Nº 9.503/97;;;4; ;C;Consulta ao sistema Serpro. Veículo x,cor y. Condutor com o braço esquerdo para fora da janela.;252 I
+73231;Dirigir o veículo transport pessoas à sua esquerda ou entre os braços e pernas;Lei Nº 9.503/97;;;4; ;C;<null>;252 II
+73233;Dirigir o veículo transport volume à sua esquerda ou entre os braços e pernas;Lei Nº 9.503/97;;;4; ;C;<null>;252 II
+73400;Dirigir o veíc usando calçado que ñ se firme nos pés/comprometa utiliz pedais;Lei Nº 9.503/97;;;4; ;C;Consulta ao sistema Serpro. Veículo x, cor y. Condutora utilizando sapato de salto alto/chinelos, impedindo a correta utilização dos pedais. Regularizado.;252 IV
+73662;Dirigir veículo utilizando-se de telefone celular;Lei Nº 9.503/97;;;4; ;C;Consulta ao sistema SERPRO. Veiculo com condutor utilizando aparelho celular com a mão direita no ouvido direito e apenas com a mão esquerda no volante.;252 VI
+74471;Conduzir bicicleta em passeios onde não seja permitida a circulação desta;Lei Nº 9.503/97;;;4; ;C;<null>;255
+74550;Transitar em velocidade superior à máxima permitida em até 20%;Lei Nº 9.503/97;2006-07-26 00:00:00.0;;4;V;C;<null>;218 I
+74710;Transitar em velocidade superior à máxima permitida em mais de 50%;Lei Nº 9.503/97;2006-07-26 00:00:00.0;;7;V;C;<null>;218 III
+50450;Dirigir veículo com validade de CNH/PPD vencida há mais de 30 dias;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;Consulta ao sistema SERPRO. Veiculo com condutor dirigindo com habilitação vencida a mais de 30 dias conforme consulta ao sistema SERPRO. Veiculo liberado ao sr yyy habilitado de CNH xxx.;162 V
+50960;Entregar veículo a pessoa com CNH/PPD vencida há mais de 30 dias;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;P;<null>;163 c/c 162 V
+51420;Permitir posse/condução do veíc a pessoa com CNH/PPD vencida há mais de 30 dias;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;P;<null>;164 c/c 162 V
+51692;Dirigir sob a influência de qquer substância psicoativa que deter. dependência;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7;A;C;<null>;165
+52581;Promover na via competição sem permissão;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;J;<null>;174
+52583;Promover na via exibição e demonstração de perícia em manobra de veículo s/perm;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;J;<null>;174
+52662;Participar na via como condutor em eventos organizados sem permissão;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;<null>;174
+52741;Utiliz veíc demonst/exibir manobra perigosa mediante arrancada brusca;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;<null>;175
+55411;Estacionar em desacordo com a regulamentação especificada pela sinalização;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;5; ;C;<null>;181 XVII
+55412;Estacionar em desacordo com a regulamentação - estacionamento rotativo;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;5; ;C;<null>;181 XVII
+55413;Estacionar em desacordo com a regulamentação - ponto ou vaga de táxi;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;5; ;C;<null>;181 XVII
+55414;Estacionar em desacordo com a regulamentação - vaga de carga/descarga;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;5; ;C;<null>;181 XVII
+55417;Estacionar em desacordo com a regulamentação - vaga de curta duração;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;5; ;C;<null>;181 XVII
+69391;Falsificar ou adulterar documento de habilitação;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;<null>;234
+69392;Falsificar ou adulterar documento de identificação do veículo;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;<null>;234
+70301;Conduzir motocicleta, motoneta e ciclomotor sem capacete de segurança;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;Motocicleta x, cor y. Condutor não usava capacete, em desacordo com a Resolução 453/13 do CONTRAN. Regularizado /ou/ Veículo retido conforme e-DRV no x, face o art. 269, §1o, do CTB.;244 I
+75600;Conduzir veíc de transp passag ou carga em desacordo c/ as cond do art 67-C CTB;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;4; ;C;<null>;230, XXIII
+52742;Utiliz veíc dem/exibir manob perig med derrap/frenag c/desliz/arrast pneus;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;7; ;C;<null>;175
+67690;Conduzir o veíc c/ com defeito no sist de iluminação, sinaliz ou lâmpadas queimadas;Lei Nº 9.503/97;2016-02-02 00:00:00.0;;4; ;P;Veículo com o farol de neblina, lado direito, inoperante. Regularizado.;230 XXII
+73741;Bloquear a via com veículo.;Lei Nº 9.503/97;2016-05-04 00:00:00.0;;7; ;C;<null>;253
+73742;Usar qualquer veículo para, deliberadamente, interromper, a circulação na via sem autorização do órgão ou entidade de trânsito com circunscrição sobre ela.;Lei Nº 9.503/97;2016-05-04 00:00:00.0;;7; ;C;<null>;253-A
+73743;Usar qualquer veículo para, deliberadamente, restringir, a circulação na via sem autorização do órgão ou entidade de trânsito com circunscrição sobre ela.;Lei Nº 9.503/97;2016-05-04 00:00:00.0;;7; ;C;<null>;253-A
+73744;Usar qualquer veículo para, deliberadamente, perturbar, a circulação na via sem autorização do órgão ou entidade de trânsito com circunscrição sobre ela.;Lei Nº 9.503/97;2016-05-04 00:00:00.0;;7; ;C;<null>;253-A
+72421;Em movimento de dia, deixar de manter acesa luz baixa nos túneis com iluminação pública.;Lei Nº 9.503/97;2016-07-08 00:00:00.0;;4; ;C;<null>;250 I b
+72422;Em movimento de dia, deixar de manter acesa luz baixa nas rodovias.;Lei Nº 9.503/97;2016-07-08 00:00:00.0;;4; ;C;<null>;250 I b
+76171;Usar qq veiculo para, delib, interromper circulação na via sem aut do orgão;Lei Nº 9.503/97;2016-06-21 00:00:00.0;;7; ;C;<null>;253-A
+76173;Usar qq veiculo para, delib, pertubar circulação na via sem aut do orgão;Lei Nº 9.503/97;2016-06-21 00:00:00.0;;7; ;C;<null>;253-A
+76172;Usar qq veiculo para, delib, restringir circulação na via sem aut do orgão;Lei Nº 9.503/97;2016-06-21 00:00:00.0;;7; ;C;<null>;253-A
+76090;Organizar a conduta prevista no caput do art. 253-A;Lei Nº 9.503/97;2016-06-21 00:00:00.0;;7; ;J;<null>;253-A, § 1º
